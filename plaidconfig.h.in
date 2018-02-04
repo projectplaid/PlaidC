@@ -1,0 +1,8 @@
+#ifndef __plaidconfig_h
+#define __plaidconfig_h
+
+// the configured options and settings for Plaid
+#define PLAID_VERSION_MAJOR @PLAID_VERSION_MAJOR@
+#define PLAID_VERSION_MINOR @PLAID_VERSION_MINOR@
+
+#endif // __plaidconfig_h
